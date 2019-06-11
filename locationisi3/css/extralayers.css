@@ -1,0 +1,38 @@
+.big-caption {
+  font-family: "Asap", Arial, Helvetica Neue, Helvetica, sans-serif;
+  font-size:80px;
+  font-weight:700;
+  color:#FFF;
+}
+.medium-caption {
+  font-family: "Asap", Arial, Helvetica Neue, Helvetica, sans-serif;
+  font-size:50px;
+  font-weight:400;
+  color:#FFF;
+}
+
+.small-caption {
+  font-family: "Asap", Arial, Helvetica Neue, Helvetica, sans-serif;
+  font-size:30px;
+  font-weight:300;
+  color:#FFF;
+  background:rgba(0,0,0,0.45);
+  padding:10px;
+  -webkit-border-radius: 4px;  
+     -moz-border-radius: 4px;  
+          border-radius: 4px;   
+}
+
+.small-caption-2 {
+  font-family: "Asap", Arial, Helvetica Neue, Helvetica, sans-serif;
+  font-size:30px;
+  font-weight:300;
+  color:#FFF;
+}
+.small-caption-2 a.btn {
+  color:#fff;
+}
+
+.small-caption-2 a.btn:hover {
+  color:#fff;
+}

@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d169d3d-dbae-4a4b-9011-07824df826fe" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="sidebar.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/includes/sidebar.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="addClient.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/addClient.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2516">
+              <caret line="148" column="61" selection-start-line="148" selection-start-column="61" selection-end-line="148" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/includes/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1581">
+              <caret line="93" selection-start-line="93" selection-end-line="94" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="listeDesAgence.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/listeDesAgence.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1785">
+              <caret line="110" column="72" selection-start-line="110" selection-start-column="72" selection-end-line="110" selection-end-column="72" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="listeDesClient.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/backend/listeDesClient.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1547">
+              <caret line="91" column="42" selection-start-line="91" selection-start-column="42" selection-end-line="99" selection-end-column="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="listeDesReservation.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/listeDesReservation.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1785">
+              <caret line="110" column="74" selection-start-line="110" selection-start-column="74" selection-end-line="110" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="updateVoiture.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/updateVoiture.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="901">
+              <caret line="58" column="44" selection-start-line="58" selection-start-column="44" selection-end-line="58" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="addVoiture - Copie.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/addVoiture - Copie.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="199" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>col</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/backend/includes/index2.php" />
+        <option value="$PROJECT_DIR$/backend/includes/footer.php" />
+        <option value="$PROJECT_DIR$/backend/index2.php" />
+        <option value="$PROJECT_DIR$/includes/cnx.php" />
+        <option value="$PROJECT_DIR$/includes/ccnx.php" />
+        <option value="$PROJECT_DIR$/backend/js/listeDesVoiture.php" />
+        <option value="$PROJECT_DIR$/backend/Voiture/listeDesVoiture.php" />
+        <option value="$PROJECT_DIR$/backend/addReservation.php" />
+        <option value="$PROJECT_DIR$/backend/addAgence.php" />
+        <option value="$PROJECT_DIR$/backend/addVoiture.php" />
+        <option value="$PROJECT_DIR$/backend/index.php" />
+        <option value="$PROJECT_DIR$/backend/listeDesVoiture.php" />
+        <option value="$PROJECT_DIR$/backend/listeDesAgence.php" />
+        <option value="$PROJECT_DIR$/backend/listeDesClient.php" />
+        <option value="$PROJECT_DIR$/backend/listeDesReservation.php" />
+        <option value="$PROJECT_DIR$/backend/updateVoiture.php" />
+        <option value="$PROJECT_DIR$/backend/includes/sidebar.php" />
+        <option value="$PROJECT_DIR$/backend/login.php" />
+        <option value="$PROJECT_DIR$/backend/includes/header.php" />
+        <option value="$PROJECT_DIR$/backend/addClient.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/bower_components/Flot/package.json" />
+      <path value="$PROJECT_DIR$/bower_components/bootstrap-datepicker/package.json" />
+      <path value="$PROJECT_DIR$/bower_components/bootstrap-daterangepicker/package.json" />
+      <path value="$PROJECT_DIR$/bower_components/bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/bower_components/chart.js/package.json" />
+      <path value="$PROJECT_DIR$/bower_components/ckeditor/package.json" />
+      <path value="$PROJECT_DIR$/bower_components/eve-raphael/package.json" />
+      <path value="$PROJECT_DIR$/bower_components/ion.rangeSlider/package.json" />
+      <path value="$PROJECT_DIR$/bower_components/jquery-knob/package.json" />
+      <path value="$PROJECT_DIR$/bower_components/jquery-slimscroll/package.json" />
+      <path value="$PROJECT_DIR$/bower_components/jquery-ui/package.json" />
+      <path value="$PROJECT_DIR$/bower_components/morris.js/package.json" />
+      <path value="$PROJECT_DIR$/bower_components/select2/package.json" />
+      <path value="$PROJECT_DIR$/vendors/Chart.js/package.json" />
+      <path value="$PROJECT_DIR$/vendors/DateJS/package.json" />
+      <path value="$PROJECT_DIR$/vendors/Flot/package.json" />
+      <path value="$PROJECT_DIR$/vendors/animate.css/package.json" />
+      <path value="$PROJECT_DIR$/vendors/autosize/package.json" />
+      <path value="$PROJECT_DIR$/vendors/bootstrap-daterangepicker/package.json" />
+      <path value="$PROJECT_DIR$/vendors/bootstrap-datetimepicker/package.json" />
+      <path value="$PROJECT_DIR$/vendors/bootstrap-progressbar/package.json" />
+      <path value="$PROJECT_DIR$/vendors/bootstrap-wysiwyg/package.json" />
+      <path value="$PROJECT_DIR$/vendors/bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/vendors/cropper/package.json" />
+      <path value="$PROJECT_DIR$/vendors/devbridge-autocomplete/package.json" />
+      <path value="$PROJECT_DIR$/vendors/echarts/package.json" />
+      <path value="$PROJECT_DIR$/vendors/eve/package.json" />
+      <path value="$PROJECT_DIR$/vendors/flot-spline/package.json" />
+      <path value="$PROJECT_DIR$/vendors/ion.rangeSlider/package.json" />
+      <path value="$PROJECT_DIR$/vendors/jquery-knob/package.json" />
+      <path value="$PROJECT_DIR$/vendors/jquery.easy-pie-chart/package.json" />
+      <path value="$PROJECT_DIR$/vendors/jqvmap/package.json" />
+      <path value="$PROJECT_DIR$/vendors/jszip/package.json" />
+      <path value="$PROJECT_DIR$/vendors/morris.js/package.json" />
+      <path value="$PROJECT_DIR$/vendors/select2/package.json" />
+      <path value="$PROJECT_DIR$/vendors/starrr/package.json" />
+      <path value="$PROJECT_DIR$/vendors/switchery/package.json" />
+      <path value="$PROJECT_DIR$/vendors/transitionize/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gestionDesLocation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gestionDesLocation" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="gestionDesLocation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gestionDesLocation" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="backend" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\gestionDesLocation\backend" />
+      <recent name="C:\Users\redwane\Desktop\Structure projet\backend" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d169d3d-dbae-4a4b-9011-07824df826fe" name="Default" comment="" />
+      <created>1521342873953</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521342873953</updated>
+      <workItem from="1521342879537" duration="593000" />
+      <workItem from="1521380226296" duration="3604000" />
+      <workItem from="1521391164591" duration="2051000" />
+      <workItem from="1521413565902" duration="5295000" />
+      <workItem from="1521456859381" duration="602000" />
+      <workItem from="1521465605439" duration="110000" />
+      <workItem from="1521538011300" duration="589000" />
+      <workItem from="1521543092486" duration="958000" />
+      <workItem from="1521578051915" duration="595000" />
+      <workItem from="1521672537781" duration="601000" />
+      <workItem from="1521726290436" duration="1910000" />
+      <workItem from="1521856421270" duration="640000" />
+      <workItem from="1521890226987" duration="596000" />
+      <workItem from="1521916074107" duration="572000" />
+      <workItem from="1521983847793" duration="594000" />
+      <workItem from="1522009043126" duration="1276000" />
+      <workItem from="1522061717627" duration="1190000" />
+      <workItem from="1522160147304" duration="1297000" />
+      <workItem from="1522429160946" duration="93000" />
+      <workItem from="1522452970917" duration="1185000" />
+      <workItem from="1522483717018" duration="1240000" />
+      <workItem from="1522552450849" duration="588000" />
+      <workItem from="1522599934375" duration="1409000" />
+      <workItem from="1522690738496" duration="711000" />
+      <workItem from="1522742582079" duration="11000" />
+      <workItem from="1522743398949" duration="141000" />
+      <workItem from="1522744161992" duration="579000" />
+      <workItem from="1522845768936" duration="1020000" />
+      <workItem from="1522947263759" duration="678000" />
+      <workItem from="1523033303549" duration="580000" />
+      <workItem from="1523455743965" duration="4338000" />
+      <workItem from="1523510103572" duration="595000" />
+      <workItem from="1523660565063" duration="14975000" />
+      <workItem from="1523818031674" duration="431000" />
+      <workItem from="1523818997553" duration="1265000" />
+      <workItem from="1523820488265" duration="6000" />
+      <workItem from="1523842245119" duration="678000" />
+      <workItem from="1523916609005" duration="1925000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="55521000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22693998" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24962178" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.27467105" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Project" order="0" visible="true" weight="0.24659607" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.27467105" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/backend/includes/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/addClient.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2516">
+          <caret line="148" column="61" selection-start-line="148" selection-start-column="61" selection-end-line="148" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/includes/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1581">
+          <caret line="93" selection-start-line="93" selection-end-line="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/listeDesAgence.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1785">
+          <caret line="110" column="72" selection-start-line="110" selection-start-column="72" selection-end-line="110" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/listeDesReservation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1785">
+          <caret line="110" column="74" selection-start-line="110" selection-start-column="74" selection-end-line="110" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/updateVoiture.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="58" column="44" selection-start-line="58" selection-start-column="44" selection-end-line="58" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/addVoiture - Copie.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="199" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/listeDesClient.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1547">
+          <caret line="91" column="42" selection-start-line="91" selection-start-column="42" selection-end-line="99" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
